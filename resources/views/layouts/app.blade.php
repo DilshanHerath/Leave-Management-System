@@ -91,7 +91,7 @@
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
 {{-- system js --}}
-<script src="{{ asset('assets/backend/js/app.js') }}" defer></script>
+<script src="{{ asset('assets/admin/js/app.js') }}" defer></script>
 
 
 @if(session('success'))
